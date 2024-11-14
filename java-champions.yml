@@ -1970,6 +1970,7 @@ members:
     social:
       twitter: https://twitter.com/michaelkolling
       linkedin: https://www.linkedin.com/in/kolling/
+      bluesky: https://bsky.app/profile/michaelkolling.bsky.social
     avatar: img/avatars/michaelkolling.png
   - name: Prof. Dierk König
     year: 2016
@@ -2049,6 +2050,7 @@ members:
       twitter: https://twitter.com/PeterLawrey
       mastodon: https://mastodon.social/@PeterLawrey
       linkedin: https://www.linkedin.com/in/peterlawrey/
+      bluesky: https://bsky.app/profile/peterlawrey.bsky.social
     avatar: img/avatars/PeterLawrey.png
   - name: Dr. Doug Lea
     year: 2005
